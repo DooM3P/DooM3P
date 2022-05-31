@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @DooM3P
 - 👀 I’m interested in Machine Learning, Data Science, Coding
 - 🌱 I’m currently learning Python
 
